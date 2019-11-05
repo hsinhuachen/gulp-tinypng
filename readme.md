@@ -19,7 +19,7 @@
 	});
 
 ## API Key
-https://tinypng.com/developers [https://tinypng.com/developers]
+https://tinypng.com/developers
 
 ## Run
 	 gulp tinypng
